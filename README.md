@@ -17,6 +17,13 @@
   * Mac: same deal as make - [install Xcode command line tools](https://developer.apple.com/xcode/features/)
   * Windows: recommend using [MinGW](http://www.mingw.org/)
 
+### Download yolov3.weights
+link: https://pan.baidu.com/s/11kqtPdSWxyNHsm8nSPHqQg 
+
+pass word: q4q6
+
+put in directory YOLOv3-Object-Detection-with-OpenCV/dat/yolo/
+
 ## Basic Build Instructions
 
 1. Clone this repo.
